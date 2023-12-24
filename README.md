@@ -126,3 +126,9 @@ Para la creación de los proyectos con este framework ejecutar este comando (o v
 ```sh
 npx nuxi@latest init PruebasNuxt
 ```
+
+<hr>
+
+## Instalación de Flowbite
+
+Ver proceso de para instalar en la [página oficial](https://flowbite.com/docs/getting-started/nuxt-js/#install-flowbite).
