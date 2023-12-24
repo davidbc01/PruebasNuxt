@@ -1,6 +1,6 @@
 <template>
+  <index />
   <div>
     <!--<NuxtWelcome />-->
-    <index />
   </div>
 </template>
